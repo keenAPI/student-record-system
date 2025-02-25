@@ -1,0 +1,42 @@
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).exe
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).deps.json
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).runtimeconfig.json
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).pdb
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).AssemblyInfoInputs.cache
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).AssemblyInfo.cs
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).csproj.CoreCompileInputs.cache
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\refint\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).pdb
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).genruntimeconfig.cache
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Documents\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\ref\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).exe
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).deps.json
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).runtimeconfig.json
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).pdb
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).AssemblyInfoInputs.cache
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).AssemblyInfo.cs
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).csproj.CoreCompileInputs.cache
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\refint\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).pdb
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).genruntimeconfig.cache
+C:\Users\Sprinter 11\OneDrive - redAcademy (Pty) Ltd\Desktop\C#_Practice\LINQ\Student Record System (LINQ)\obj\Debug\net9.0\ref\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).exe
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).deps.json
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).runtimeconfig.json
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\bin\Debug\net9.0\Student Record System (LINQ).pdb
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).AssemblyInfoInputs.cache
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).AssemblyInfo.cs
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).csproj.CoreCompileInputs.cache
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\obj\Debug\net9.0\refint\Student Record System (LINQ).dll
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).pdb
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\obj\Debug\net9.0\Student Record System (LINQ).genruntimeconfig.cache
+C:\Users\Sprinter 11\C# Projects\Student Record System (LINQ)\obj\Debug\net9.0\ref\Student Record System (LINQ).dll
